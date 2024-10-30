@@ -139,3 +139,8 @@ body {
   margin-right: auto;
   width: 100%;
 }
+
+a:link    {color:#000;}  /* unvisited link  */
+a:visited {color:#000;}  /* visited link    */
+a:hover   {color:#000;}  /* mouse over link */
+a:active  {color:#000;}  /* selected link   */ 
